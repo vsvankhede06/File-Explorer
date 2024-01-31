@@ -1,7 +1,7 @@
-Overview
+Overview :
 This project is a simple file explorer application built using React.js. It provides a user-friendly interface for creating folders and files, similar to the sidebar functionality in VS Code.
 
-Features
+Features : 
 Folder Creation: Users can easily create new folders in the file explorer by clicking on the "New Folder" button.
 
 File Creation: Similarly, users can create new files by clicking on the "New File" button.
